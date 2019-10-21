@@ -4,6 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Service;
 import pl.sii.meetup.eventsdemo.d3.JobDoneCustomEvent;
+import pl.sii.meetup.eventsdemo.d5.YetAnotherEventEvent;
 
 import java.util.List;
 import java.util.stream.Collectors;

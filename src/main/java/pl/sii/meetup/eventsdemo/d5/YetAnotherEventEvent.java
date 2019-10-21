@@ -1,4 +1,4 @@
-package pl.sii.meetup.eventsdemo.d4;
+package pl.sii.meetup.eventsdemo.d5;
 
 import lombok.Getter;
 import lombok.ToString;
