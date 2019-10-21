@@ -11,6 +11,6 @@ public class AnnotatedRequestListenerDemo {
 
     @EventListener
     public void onApplicationEvent( ServletRequestHandledEvent event ) {
-        log.info( "Servlet Request Handled Event received: {}", event );
+        log.info( "Servler Request Handled Event received: {}", event );
     }
 }

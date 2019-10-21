@@ -10,6 +10,6 @@ import org.springframework.web.context.support.ServletRequestHandledEvent;
 public class RequestListenerDemo implements ApplicationListener<ServletRequestHandledEvent> {
     @Override
     public void onApplicationEvent( ServletRequestHandledEvent event ) {
-        log.info( "Servlet Request Handled Event received: {}", event );
+        log.info( "Servler Request Handled Event received: {}", event );
     }
 }
