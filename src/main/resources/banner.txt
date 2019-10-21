@@ -1,0 +1,8 @@
+${AnsiColor.BLUE} .|'''.|   ||   ||      ${AnsiColor.BRIGHT_CYAN}'||    ||' '||''''|  '||''''|  |''||''| '||'  '|' '||''|.
+${AnsiColor.BLUE} ||..  '  ...  ...      ${AnsiColor.BRIGHT_CYAN} |||  |||   ||  .     ||  .       ||     ||    |   ||   ||
+${AnsiColor.BLUE}  ''|||.   ||   ||      ${AnsiColor.BRIGHT_CYAN} |'|..'||   ||''|     ||''|       ||     ||    |   ||...|'
+${AnsiColor.BLUE}.     '||  ||   ||      ${AnsiColor.BRIGHT_CYAN} | '|' ||   ||        ||          ||     ||    |   ||
+${AnsiColor.BLUE}|'....|'  .||. .||.     ${AnsiColor.BRIGHT_CYAN}.|. | .||. .||.....| .||.....|   .||.     '|..'   .||.
+
+${AnsiColor.WHITE}Spring Boot ${AnsiColor.BLUE}${spring-boot.version} ${AnsiColor.WHITE}running on ${AnsiColor.BLUE}Java ${java.version}
+${AnsiColor.WHITE}Operating System: ${AnsiColor.MAGENTA}${os.name} ${AnsiColor.BLUE}${os.version} (${os.arch})
